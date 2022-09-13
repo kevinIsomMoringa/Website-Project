@@ -1,1 +1,70 @@
+#main-container{
+    background-color: aqua;
+    position: relative; height: 300px; width:80% ; left: 130px;
+    margin-top: px;
 
+}
+#second-container{
+    background-color:brown;
+    align-content: center;
+    position: relative; height: 600px; width:70% ; left: 190px;
+    margin-top: 120px;
+
+}
+#third-container{
+    background-color: blue;
+    position: relative; height: 600px; width:70% ; left: 190px;
+    margin-top: 120px;
+
+}
+.title2 {
+    background-color: blueviolet;
+    position: relative; height: 300px;
+}
+
+.nav {
+    height: 100vh;
+    width: 100%;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+nav ul li {
+    list-style: none;
+    display: inline-block; 
+    padding: 10px 20px;
+}
+nav ul li a{
+text-decoration: none;
+font-weight:bold;
+}
+nav ul li a:hover{
+    color: burlywood;
+    
+}
+.d1 {
+    background-color: black;
+    width: 25%;
+    height: 300px;
+}
+.d2 {
+    background-color: black;
+   position: relative; width: 25%; height: 300px; left: 220px; bottom: 300px;
+   
+}
+.d3 {
+    background-color: gold;
+    position: relative; width: 25%; height: 300px; left: 440px; bottom: 600px;
+}
+.d4 {
+    background-color: black;
+    position: relative; width: 25.4%; height: 300px; left: 660px; bottom: 900px;
+}
+.abt {
+    text-align: center;
+    font-weight: bold;
+}
