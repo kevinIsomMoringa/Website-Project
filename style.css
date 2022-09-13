@@ -72,3 +72,13 @@ div.pg2 h2 p{
 text-align: center;
 
 }
+.btn {
+    position: relative; top: 170px; left: 20px;
+    border-radius: 25px ;
+    background-color: rgb(0, 0, 0);
+    color: burlywood;
+    width: 100px;
+    height: 30px;
+    box-shadow: 100px;
+    z-index: 7;
+}
