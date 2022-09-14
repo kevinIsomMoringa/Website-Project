@@ -99,22 +99,31 @@ text-align: center;
     font-family: Trebuchet MS;
     display: block;
     font-size: 6vmin;
-  }
-  #carouseL > div {
+}
+#carouseL > div {
     position: absolute;
     top: 4em;
     left: 0;
     width: 100%;
     transition: transform 0.5s;
     transform: scale(0);
-  }
-  #carouseL > div > div {
-    padding: 3em;
-  }
+}
+#carouseL > div > div {
+    padding: .4em;
+}
+
+#carouseL > div > div  p {
+    display: block;
+    margin-block-start: .5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
   #carouseL > div label {
     cursor: pointer;
     background: #d9ff4f;
-    padding: 1em 2em;
+    padding: 0.1em 1em;
   }
   #carouseL #page1cb:checked ~ #page1 {
     transform: scale(1);
