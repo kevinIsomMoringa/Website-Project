@@ -15,7 +15,7 @@
 + [Authors Info](#author-Info)
 
 ## Description
-<p>This is  a website that informs a user of the Weather conditions/climate. In this site, one is able to get weather Information of their desired location</p>
+<p>This is a farm Website</p>
 
 ## Access
 - [GitHub Pages in Live State](#)
